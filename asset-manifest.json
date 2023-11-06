@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/kamilapereira/assignment.git/static/css/main.dc3f1e1e.css",
-    "main.js": "/kamilapereira/assignment.git/static/js/main.fd257b4c.js",
-    "index.html": "/kamilapereira/assignment.git/index.html",
-    "main.dc3f1e1e.css.map": "/kamilapereira/assignment.git/static/css/main.dc3f1e1e.css.map",
-    "main.fd257b4c.js.map": "/kamilapereira/assignment.git/static/js/main.fd257b4c.js.map"
+    "main.css": "//kamilapereira.github.io/assignment/static/css/main.dc3f1e1e.css",
+    "main.js": "//kamilapereira.github.io/assignment/static/js/main.fd257b4c.js",
+    "index.html": "//kamilapereira.github.io/assignment/index.html",
+    "main.dc3f1e1e.css.map": "//kamilapereira.github.io/assignment/static/css/main.dc3f1e1e.css.map",
+    "main.fd257b4c.js.map": "//kamilapereira.github.io/assignment/static/js/main.fd257b4c.js.map"
   },
   "entrypoints": [
     "static/css/main.dc3f1e1e.css",
